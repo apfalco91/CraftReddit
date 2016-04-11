@@ -1,0 +1,56 @@
+body{
+	border: 5px solid;
+	font-size:19px;
+    font-family: 'Product Sans', Arial, sans-serif;
+}
+p{
+	width:650px;
+	margin:40px auto;
+}
+div.headline{
+    font-size: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    font-family: 'Nixie One', Georgia, serif;
+}
+div.byline{
+    font-size: 20px;
+    line-height: 55px;
+}
+.headline-wrapper {
+    width:100%;
+    text-align: center;
+}
+#wrapper1 {
+    padding-left: 10px;
+    border: 1px solid black;
+}
+#charts1{
+    padding-left: 50px;
+    width: 100%;
+    height:645px;
+    border: 1px solid black;
+}
+#charts2{
+    border: 1px solid black;
+}
+figcaption{
+    font-size: 14px;
+    width:30%;
+}
+blockquote {
+ margin: 0;
+ padding: 0;
+ color: #555;
+}
+blockquote p {
+ font: bold italic 1em Georgia, Times, "Times New Roman", serif;
+ font-size: 1.25em;
+ margin: 40px auto;
+ padding: 0;
+}
+blockquote .source {
+ text-align: right;
+ font-style: normal;
+ margin-right: 2em;
+}
